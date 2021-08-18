@@ -1,11 +1,11 @@
 {
     "name": "color-functions",
     "version": "0.1",
-    "description": "Just a bunch of color functions!",
+    "description": "Just a bunch of handy color functions!",
     "main": "index.js",
     "author": "James Wiseman <hello@jameswiseman.me>",
     "license": "MIT",
-    "keywords": ["colors", "colour", "helper"],
+    "keywords": ["color", "colour", "helper", "colors", "colours", "hex", "rgba", "rgb", "hsl"],
     "scripts": {
         "test": "jest"
     },
