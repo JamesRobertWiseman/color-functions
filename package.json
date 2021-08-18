@@ -6,6 +6,15 @@
     "author": "James Wiseman <hello@jameswiseman.me>",
     "license": "MIT",
     "keywords": ["color", "colour", "helper", "colors", "colours", "hex", "rgba", "rgb", "hsl"],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JamesRobertWiseman/color-functions.git"
+    },
+    "bugs": {
+        "url": "https://github.com/JamesRobertWiseman/color-functions/issues",
+        "email": "hello@jameswiseman.me"
+    },
+    "homepage": "https://github.com/JamesRobertWiseman/color-functions#readme",
     "scripts": {
         "test": "jest"
     },
