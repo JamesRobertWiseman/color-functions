@@ -1,4 +1,4 @@
 import hexToRGB from './src/hexToRGB';
+import rgbToHex from './src/rgbToHex';
 
-
-export { hexToRGB };
+export { hexToRGB , rgbToHex };
